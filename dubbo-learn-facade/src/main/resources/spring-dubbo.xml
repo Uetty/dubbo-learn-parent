@@ -10,7 +10,7 @@
     <!-- provider's application name, used for tracing dependency relationship -->
     <dubbo:application name="dubbo-learn-facade"/>
     <!-- use multicast registry center to export service -->
-    <dubbo:registry address="@bubbo.registryAddress@"/>
+    <dubbo:registry address="@dubbo.registryAddress@"/>
     
     <!-- generate proxy for the remote service, then demoService can be used in the same way as the
     local regular interface -->
