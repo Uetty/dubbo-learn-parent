@@ -1,0 +1,10 @@
+project:
+    edition: '@project.version@'
+
+server:
+    port: 8090
+    session-timeout: 60
+    
+spring:
+    profiles:
+        active: '@profiles.active@'
