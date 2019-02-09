@@ -4,7 +4,7 @@
 
 	<groupId>com.uetty.dubbo-learn</groupId>
 	<artifactId>dubbo-learn-parent</artifactId>
-	<version>1.0.2.RELEASE</version>
+	<version>1.0.3.bc-RLS</version>
 	<packaging>pom</packaging>
 
 	<name>dubbo-learn-parent</name>
